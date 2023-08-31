@@ -3,7 +3,8 @@
 <div align="center">
   <br/>
 
-  <h1><b>BoxFlix Backend 🏠️🛠️</b></h1>
+  <!-- <h1><b>Streamflix 🏠️🛠️</b></h1> -->
+    <h1><b>Title of Project emojiis </b></h1>
 
 </div>
 
@@ -27,29 +28,34 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 BoxFlix-Backend <a name="about-project"></a> <a name="about-project"></a>
+<!-- # 📖 Streamflix-Backend <a name="about-project"></a> <a name="about-project"></a> -->
+# 📖 Title of Project <a name="about-project"></a> <a name="about-project"></a>
 
-**BoxFlix Backend** is a Rails project which gives the API for the BoxFlix Frontend.
+<!-- **Streamflix** is a Rails project which gives the API for the BoxFlix Frontend. -->
+**Title of roject ** description of project
 
 ## 🛠 Built With <a name="built-with"></a>
 
 This app is built with Ruby on Rails and Postgresql.
-
 ### Tech Stack <a name="tech-stack"></a>
 
 > <li><a href="https://www.ruby-lang.org/en/">Ruby</a></li>
 > <li><a href="https://rubyonrails.org/">Ruby on Rails</a></li>
 > <li><a href="https://www.postgresql.org/">Postgresql</a></li>
-> <li><a href="https://reactjs.org/">React</a></li>
-> <li><a href="https://redux.js.org/">Redux</a></li>
 
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
-
+<!-- 
 - [x] Authentication
 - [x] Authorization
 - [x] CRUD
+ -->
+
+- [x] feature 1
+- [x] feature 2
+- [x] feature 3
+- [x] feature 4
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -72,7 +78,7 @@ In order to run this project you need:
 
 ### App Screenshot
 
-![screenshot](#)
+<!-- Add screenshot of project here -->
 
 ### Front-end Repository
 
@@ -80,20 +86,23 @@ In order to run this project you need:
 
 ### Initial State of Kanban Board
 
-![kanban](#)
+
+<!-- Add screenshot of the kanban boards initial state -->
 
 ### Setup
 
 - Clone this repository to your desired folder:
 
 ```sh
-   git clone https://github.com/Lucash2022B/BoxFlix-Backend.git
+  #  git clone https://github.com/Lucas-Erkana/Streamflix-Backend.git
+  git clone https://github.com/Lucas-Erkana/Reponame.git
 ```
 
 - Navigate into the cloned folder
 
 ```sh
-cd BoxFlix-Backend
+# cd Streamflix-Backend
+cd Reponame
 ```
 
 ### Install
@@ -138,41 +147,13 @@ rspec ./spec/models
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Yetemegn Lemma**
+👤 **Lucas Erkana**
 
-- GitHub: [@githubhandle](https://github.com/yetemegn-telaye)
-- Twitter: [@twitterhandle](https://twitter.com/Yetemegn19)
-- LinkedIn: [LinkedIn](\* lemma19yet@gmail.com)
+- GitHub: [@Lucask-Erkana](https://github.com/Lucask-Erkana)
+- Twitter: [@Lucas_David_22](https://twitter.com/@Lucas_David_22)
+- LinkedIn: [Lucas Erkana](https://www.linkedin.com/in/lucas-erkana/)
+- Frontend Mentor - [@Lucask-Erkana](https://www.frontendmentor.io/profile/Lucask-Erkana)
 
-👤 **Jacinta Ngwu**
-
-- GitHub: [@JacintaNgwu](https://github.com/JacintaNgwu)
-- Twitter: [@jacinta_ngwu](https://twitter.com/jacinta_ngwu)
-- LinkedIn: [jacinta_ngwu](https://www.linkedin.com/in/jacintangwu/)
-
-👤 **Haliljon Juraboev**
-
-- GitHub: [@githubhaliljon](https://github.com/haliljon)
-- Twitter: [@twitterhaliljon1](https://twitter.com/haliljon1)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/juraboev-haliljon)
-
-👤 **Utsargo Roy**
-
-- GitHub: [@utsargo](https://github.com/utsargo)
-- Twitter: [@royutsargo](https://twitter.com/royutsargo)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/utsargo-roy/)
-
-👤 **Lucash2022 Biswas**
-
-- GitHub: [@Lucash2022B](https://github.com/Lucash2022B)
-- Twitter: [@prantalks](https://twitter.com/prantalks)
-- LinkedIn: [Lucash2022 Biswas](https://linkedin.com/in/Lucash2022)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-- GitHub: [@utsargo](https://github.com/utsargo)
-- Twitter: [@royutsargo](https://twitter.com/royutsargo)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/utsargo-roy/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -182,7 +163,9 @@ rspec ./spec/models
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Lucash2022B/BoxFlix-Backend/issues).
+<!-- Feel free to check the [issues page](https://github.com/Lucas-Erkana/Streamflix-Backend/issues). -->
+
+Feel free to check the [issues page](https://github.com/Lucas-Erkana/RepoName/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -200,7 +183,11 @@ If you like this project, please give a ⭐️
 
 I would like to thank:
 
-- [Murat Korkmaz](https://www.behance.net/muratk) for a beautiful, efficient, and accessible user interface [Design](https://www.behance.net/gallery/26425031/Vespa-Responsive-Redesign).
+[Github progile name](https://github.com/Lucas-Erkana/) for roviding a great wireframe.
+
+<!-- - [Murat Korkmaz](https://www.behance.net/muratk) for a beautiful, efficient, and accessible user interface [Design](https://www.behance.net/gallery/26425031/Vespa-Responsive-Redesign). -->
+
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
